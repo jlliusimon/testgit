@@ -1,0 +1,29 @@
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select {margin:0;padding:0}
+body {font:12px "microsoft yahei","Arial Narrow",HELVETICA;background:#fff;-webkit-text-size-adjust:100%}
+a {text-decoration:none;color: inherit}
+input,textarea,select {border: 0;}
+li {list-style-type: none}
+.clear {zoom:1}
+.clear:after {content: ".";height: 0;display: block;clear: both;visibility: hidden}
+.center {margin: 0 auto}
+.w1000 {width: 1000px}
+.fl {float: left}
+.fr {float: right}
+header .top {height: 31px;background-color: #f7f7f7;font-family: '宋体';color: #666}
+header .top .collection {background: url(../css_day02/images/muke/collection.png) no-repeat left 8px;line-height:31px;text-indent: 17px;font-weight: bold;}
+header .top .fr{line-height: 31px;margin-right: 21px}
+header .logo {background-color: #1d7ad9;height: 85px;color: #fff}
+header .logo .lg {background:url(../css_day02/images/muke/logo.png) no-repeat left center;height: 85px;width: 112px;margin-left: 38px}
+header .logo form {margin-top: 23px;margin-left: 185px;height: 35px;}
+header .logo form .search {width:350px;height: 25px;padding: 5px}
+header .logo form .btn {width:69px;height: 35px;background-color: #ff8c00;font-family:'microsoft yahei';color: #fff;font-size: 14px;cursor: pointer}
+header .logo div.fr {margin-right: 59px;margin-top: 23px;}
+header .logo div.fr span {display: inline-block;font-family:'microsoft yahei';font-size: 14px}
+header .logo div.fr .shopping_car {background: #ff8c00 url(../css_day02/images/muke/shopping-car.png) no-repeat 9px center;width: 87px;height: 35px;border-right: 1px solid #e27a00;text-indent: 40px;line-height: 35px}
+header .logo div.fr .number {background: #ff8c00 url(../css_day02/images/muke/shoppingcar-num.png) no-repeat 33px center;width: 56px;height: 35px;border-left: 1px solid #ff9c01;text-indent: 19px;line-height: 35px}
+header nav {height: 35px;background-color: #1369c0;color: #fff}
+header nav .nav_all {font-size: 16px;line-height: 35px;text-indent: 39px;width: 189px}
+header nav .nav_all i{background: url(../css_day02/images/muke/nav-arrow.png) no-repeat;display: inline-block;height: 8px;width: 11px;margin-left: 11px;}
+header nav li {float: left;width: 100px;height:35px;line-height: 35px;font-size: 14px;text-align: center;cursor: pointer}
+header nav li.current {background-color: #4593fd}
+header nav li:hover {background-color: #4593fd}

@@ -1,0 +1,8 @@
+用git commit 提交的时候是用 -m “message”的
+
+直接用git commit 回车后弹出一个窗口，后来才知道是linux下的文本编辑器
+
+进入之后是VIM的普通模式
+按 i 键，进入INSERT模式，可以输入message了。
+输入完成之后，按ESC键进入命令模式 ，
+输入冒号（在窗口下面显示），然后输入x，回车就OK了。
